@@ -1,0 +1,3 @@
+Negative weight graph, cannot compute Dijkstra.
+Negative weight cycle, cannot compute Bellman-Ford.
+Negative weight cycle, cannot compute Johnson.
