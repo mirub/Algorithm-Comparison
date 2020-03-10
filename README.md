@@ -1,7 +1,6 @@
-Student: Banu Miruna-Elena
-Group: 321CA
+# Algorithm Comparison
 
-Stage 2 contents:
+Contents: 
 
 * **algo.h**  
    * The prototype of the generic algorithm methods.
